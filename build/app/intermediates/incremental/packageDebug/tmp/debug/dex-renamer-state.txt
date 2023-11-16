@@ -1,4 +1,4 @@
-#Tue Nov 14 13:58:06 COT 2023
+#Thu Nov 16 15:45:57 COT 2023
 base.0=C\:\\Users\\ricardomartinez\\Desktop\\appreciscan\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\ricardomartinez\\Desktop\\appreciscan\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\ricardomartinez\\Desktop\\appreciscan\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
